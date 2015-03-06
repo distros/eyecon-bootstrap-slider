@@ -1,12 +1,13 @@
-distros/eyecon-bootstrap-slider   
+Eyeron bootstrap-slider 
 ===
 
-[![Build Status](https://travis-ci.org/distros/eyecon-bootstrap-slider.svg?branch=master)](https://travis-ci.org/distros/eyecon-bootstrap-slider)
+[![Build Status][travis-image]][travis-url]
+
 [![Dependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider.svg?style=flat-square)](https://david-dm.org/distros/eyecon-bootstrap-slider)
 [![devDependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider/dev-status.svg)](https://david-dm.org/distros/eyecon-bootstrap-slider#info=devDependencies)
 
 [![GitHub version](https://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider.svg)](http://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider)
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()  
 [![Built with gulp](http://img.shields.io/badge/built%20with-gulp.js-red.svg)](http://gulpjs.com/)
 
 ![JSPM](https://img.shields.io/badge/JSPM-eyecon--bootstrap--slider-db772b.svg?style=flat-square)
