@@ -1,17 +1,20 @@
 Eyeron bootstrap-slider 
 ===
 
-[![GitHub version](https://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider.svg?style=flat-square)](http://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider)
-[![Build Status](https://travis-ci.org/distros/eyecon-bootstrap-slider.svg?branch=master&style=flat-square)](https://travis-ci.org/distros/eyecon-bootstrap-slider)
-[![Dependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider.svg?style=flat-square)](https://david-dm.org/distros/eyecon-bootstrap-slider)
-[![devDependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider/dev-status.svg?style=flat-square)](https://david-dm.org/distros/eyecon-bootstrap-slider#info=devDependencies)
+[![GitHub version](https://badge.fury.io/gh/[namespace]%2F[name].svg?style=flat-square)](http://badge.fury.io/gh/[namespace]%2F[name])
+[![Build Status](https://travis-ci.org/[namespace]/[name].svg?branch=master&style=flat-square)](https://travis-ci.org/[namespace]/[name])
+[![Dependency Status](https://david-dm.org/[namespace]/[name].svg?style=flat-square)](https://david-dm.org/[namespace]/[name])
+[![devDependency Status](https://david-dm.org/[namespace]/[name]/dev-status.svg?style=flat-square)](https://david-dm.org/[namespace]/[name]#info=devDependencies)  
+[![Pull Request Stats](http://issuestats.com/github/joyent/node/badge/pr?style=flat)](http://issuestats.com/github/[namespace]/[name])
+[![Issue Stats](http://issuestats.com/github/joyent/node/badge/issue?style=flat)](http://issuestats.com/github/[namespace]/[name])
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()  
 [![written in](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)](http://www.jquery.com)
 [![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Built with gulp](http://img.shields.io/badge/built%20with-gulp.js-red.svg?style=flat-square)](http://gulpjs.com/)  
 [![JSPM](https://img.shields.io/badge/JSPM-eyecon--bootstrap--slider-db772b.svg?style=flat-square)](http://jspm.io)
 [![jQuery](https://img.shields.io/badge/jquery-*-db772b.svg?style=flat-square)](https://github.com/components/jquery)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-^3.3.5-db772b.svg?style=flat-square)](https://github.com/twbs/bootstrap)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-^3.3.5-db772b.svg?style=flat-square)](https://github.com/twbs/bootstrap)  
+
 
 Repository for the [bootstrap-slider](http://www.eyecon.ro/bootstrap-slider/) from Stefan Petre ([eyecon.ro](http://www.eyecon.ro))
 
@@ -21,7 +24,7 @@ This package includes gulp tasks to uglify the source css and to compile the les
 
 ## Installation
 
-	jspm install eyecon-bootstrap-slider
+	jspm install [name]
 
 ## Building
 
@@ -53,3 +56,6 @@ To build everything at once use:
 run the tests through npm (this will run jshint and jasmine)
 
 	npm test
+
+[namespace]: distros
+[name]: eyecon-bootstrap-slider
