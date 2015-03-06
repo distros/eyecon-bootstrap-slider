@@ -1,12 +1,12 @@
 Eyeron bootstrap-slider 
 ===
 
-[![GitHub version](https://badge.fury.io/gh/[namespace]%2F[name].svg?style=flat-square)](http://badge.fury.io/gh/[namespace]%2F[name])
-[![Build Status](https://travis-ci.org/[namespace]/[name].svg?branch=master&style=flat-square)](https://travis-ci.org/[namespace]/[name])
-[![Dependency Status](https://david-dm.org/[namespace]/[name].svg?style=flat-square)](https://david-dm.org/[namespace]/[name])
-[![devDependency Status](https://david-dm.org/[namespace]/[name]/dev-status.svg?style=flat-square)](https://david-dm.org/[namespace]/[name]#info=devDependencies)  
-[![Pull Request Stats](http://issuestats.com/github/joyent/node/badge/pr?style=flat)](http://issuestats.com/github/[namespace]/[name])
-[![Issue Stats](http://issuestats.com/github/joyent/node/badge/issue?style=flat)](http://issuestats.com/github/[namespace]/[name])
+[![GitHub version](https://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider.svg?style=flat-square)](http://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider)
+[![Build Status](https://travis-ci.org/distros/eyecon-bootstrap-slider.svg?branch=master&style=flat-square)](https://travis-ci.org/distros/eyecon-bootstrap-slider)
+[![Dependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider.svg?style=flat-square)](https://david-dm.org/distros/eyecon-bootstrap-slider)
+[![devDependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider/dev-status.svg?style=flat-square)](https://david-dm.org/distros/eyecon-bootstrap-slider#info=devDependencies)  
+[![Pull Request Stats](http://issuestats.com/github/joyent/node/badge/pr?style=flat)](http://issuestats.com/github/distros/eyecon-bootstrap-slider)
+[![Issue Stats](http://issuestats.com/github/joyent/node/badge/issue?style=flat)](http://issuestats.com/github/distros/eyecon-bootstrap-slider)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()  
 [![written in](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)](http://www.jquery.com)
 [![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -24,7 +24,7 @@ This package includes gulp tasks to uglify the source css and to compile the les
 
 ## Installation
 
-	jspm install [name]
+	jspm install eyecon-bootstrap-slider
 
 ## Building
 
@@ -56,6 +56,3 @@ To build everything at once use:
 run the tests through npm (this will run jshint and jasmine)
 
 	npm test
-
-[namespace]: distros
-[name]: eyecon-bootstrap-slider
