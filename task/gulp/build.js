@@ -25,10 +25,10 @@ gulp.task('uglify', function () {
 		.pipe(gulp.dest(gulp.config.buildPath));
 });
 
-gulp.task('js', ['build-uglify'], function () {
-
+gulp.task('js', ['jshint'], function (done) {
+	runSequence('uglify', done);
 });
 
 gulp.task('build', ['build-clean'], function (done) {
-	runSequence('uglify', 'less', 'less-prod', done);
+	runSequence('jshint','uglify', 'less', 'less-prod', done);
 });
