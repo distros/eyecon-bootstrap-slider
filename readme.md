@@ -1,16 +1,16 @@
 Eyeron bootstrap-slider 
 ===
 
+[![GitHub version](https://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider.svg?style=flat-square)](http://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider)
 [![Build Status](https://travis-ci.org/distros/eyecon-bootstrap-slider.svg?branch=master&style=flat-square)](https://travis-ci.org/distros/eyecon-bootstrap-slider)
 [![Dependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider.svg?style=flat-square)](https://david-dm.org/distros/eyecon-bootstrap-slider)
 [![devDependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider/dev-status.svg?style=flat-square)](https://david-dm.org/distros/eyecon-bootstrap-slider#info=devDependencies)  
-[![GitHub version](https://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider.svg?style=flat-square)](http://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider)
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()
+[![written in](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)](http://www.jquery.com)
+![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)]
 [![Built with gulp](http://img.shields.io/badge/built%20with-gulp.js-red.svg?style=flat-square)](http://gulpjs.com/)  
 ![JSPM](https://img.shields.io/badge/JSPM-eyecon--bootstrap--slider-db772b.svg?style=flat-square)
-![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)
-![written in](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)
-
+![Dependencies](https://img.shields.io/badge/dependencies-jquery,_bootstrap-db772b.svg?style=flat-square)  
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()
 
 Repository for the [bootstrap-slider](http://www.eyecon.ro/bootstrap-slider/) from Stefan Petre ([eyecon.ro](http://www.eyecon.ro))
 
