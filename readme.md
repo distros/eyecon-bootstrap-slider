@@ -1,8 +1,7 @@
 Eyeron bootstrap-slider 
 ===
 
-[![Build Status][travis-image]][travis-url]
-
+[![Build Status](https://travis-ci.org/distros/eyecon-bootstrap-slider.svg?branch=master)](https://travis-ci.org/distros/eyecon-bootstrap-slider)
 [![Dependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider.svg?style=flat-square)](https://david-dm.org/distros/eyecon-bootstrap-slider)
 [![devDependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider/dev-status.svg)](https://david-dm.org/distros/eyecon-bootstrap-slider#info=devDependencies)
 
