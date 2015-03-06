@@ -7,13 +7,11 @@ Eyeron bootstrap-slider
 [![devDependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider/dev-status.svg?style=flat-square)](https://david-dm.org/distros/eyecon-bootstrap-slider#info=devDependencies)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()  
 [![written in](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)](http://www.jquery.com)
-![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)
+[![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Built with gulp](http://img.shields.io/badge/built%20with-gulp.js-red.svg?style=flat-square)](http://gulpjs.com/)  
-![JSPM](https://img.shields.io/badge/JSPM-eyecon--bootstrap--slider-db772b.svg?style=flat-square)
-dependencies: 
-![jQuery](https://img.shields.io/badge/jquery-*-db772b.svg?style=flat-square)
-![Bootstrap](https://img.shields.io/badge/bootstrap-^3.3.5-db772b.svg?style=flat-square)
-
+[![JSPM](https://img.shields.io/badge/JSPM-eyecon--bootstrap--slider-db772b.svg?style=flat-square)](http://jspm.io)
+[![jQuery](https://img.shields.io/badge/jquery-*-db772b.svg?style=flat-square)](https://github.com/components/jquery)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-^3.3.5-db772b.svg?style=flat-square)](https://github.com/twbs/bootstrap)
 
 Repository for the [bootstrap-slider](http://www.eyecon.ro/bootstrap-slider/) from Stefan Petre ([eyecon.ro](http://www.eyecon.ro))
 
