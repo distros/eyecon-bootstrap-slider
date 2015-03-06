@@ -1,4 +1,4 @@
-distros/eyecon-bootstrap-slider   
+Eyeron bootstrap-slider 
 ===
 
 [![Build Status][travis-image]][travis-url]
